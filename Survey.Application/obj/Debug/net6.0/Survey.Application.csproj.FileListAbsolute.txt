@@ -1,0 +1,12 @@
+C:\Users\Radu\Desktop\aspnet\TestAPI\serv\Survey.Application\bin\Debug\net6.0\Survey.Application.deps.json
+C:\Users\Radu\Desktop\aspnet\TestAPI\serv\Survey.Application\bin\Debug\net6.0\Survey.Application.dll
+C:\Users\Radu\Desktop\aspnet\TestAPI\serv\Survey.Application\bin\Debug\net6.0\Survey.Application.pdb
+C:\Users\Radu\Desktop\aspnet\TestAPI\serv\Survey.Application\obj\Debug\net6.0\Survey.Application.csproj.AssemblyReference.cache
+C:\Users\Radu\Desktop\aspnet\TestAPI\serv\Survey.Application\obj\Debug\net6.0\Survey.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Radu\Desktop\aspnet\TestAPI\serv\Survey.Application\obj\Debug\net6.0\Survey.Application.AssemblyInfoInputs.cache
+C:\Users\Radu\Desktop\aspnet\TestAPI\serv\Survey.Application\obj\Debug\net6.0\Survey.Application.AssemblyInfo.cs
+C:\Users\Radu\Desktop\aspnet\TestAPI\serv\Survey.Application\obj\Debug\net6.0\Survey.Application.csproj.CoreCompileInputs.cache
+C:\Users\Radu\Desktop\aspnet\TestAPI\serv\Survey.Application\obj\Debug\net6.0\Survey.Application.dll
+C:\Users\Radu\Desktop\aspnet\TestAPI\serv\Survey.Application\obj\Debug\net6.0\refint\Survey.Application.dll
+C:\Users\Radu\Desktop\aspnet\TestAPI\serv\Survey.Application\obj\Debug\net6.0\Survey.Application.pdb
+C:\Users\Radu\Desktop\aspnet\TestAPI\serv\Survey.Application\obj\Debug\net6.0\ref\Survey.Application.dll
